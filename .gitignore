@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Optional: Large data files (if you don’t want to push raw CSVs)
+# data/train.csv
+# data/clean_sales_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
